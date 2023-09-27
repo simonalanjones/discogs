@@ -1,0 +1,2110 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "items": 33,
+    "urls": {}
+  },
+  "releases": [
+    {
+      "id": 6279933,
+      "instance_id": 1183977412,
+      "date_added": "2022-11-17T12:48:33-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 6279933,
+        "master_id": 71286,
+        "master_url": "https://api.discogs.com/masters/71286",
+        "resource_url": "https://api.discogs.com/releases/6279933",
+        "thumb": "https://i.discogs.com/Rvi_xWLjxkvpEqfZx_lukeRds4UWc5IkRvdsWewPZ-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzk5/MzMtMTQxNTQ3MDYz/My00MTI1LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/Z1E9Uy0HxtjiBX-GAVdSAVMxHA0KdkBEbsytAOlqjSY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzk5/MzMtMTQxNTQ3MDYz/My00MTI1LmpwZWc.jpeg",
+        "title": "The Lexicon Of Love",
+        "year": 2014,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180 gram",
+            "descriptions": ["LP", "Album", "Reissue"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "ABC",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 23035,
+            "resource_url": "https://api.discogs.com/artists/23035"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Neutron Records",
+            "catno": "378 941-8",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 12274,
+            "resource_url": "https://api.discogs.com/labels/12274"
+          },
+          {
+            "name": "Universal Music Group International",
+            "catno": "0602537894185",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 138199,
+            "resource_url": "https://api.discogs.com/labels/138199"
+          }
+        ],
+        "genres": ["Electronic", "Pop"],
+        "styles": ["New Wave", "Synth-pop"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 195534,
+      "instance_id": 1134954539,
+      "date_added": "2022-09-21T03:20:32-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 195534,
+        "master_id": 58551,
+        "master_url": "https://api.discogs.com/masters/58551",
+        "resource_url": "https://api.discogs.com/releases/195534",
+        "thumb": "https://i.discogs.com/NSwfSD7PvO9Ds6DCjuuAgWR2KOnI-ViqAwIKMoYkZIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUz/NC0xMzI3MDg5OTEw/LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/TmKNtdGImD4yV6t6yMyQND2lU9t4FmXdV1jhn_3LgFE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUz/NC0xMzI3MDg5OTEw/LmpwZWc.jpeg",
+        "title": "Premiers Symptomes",
+        "year": 1997,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["12\"", "EP", "Compilation"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "AIR",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 2770,
+            "resource_url": "https://api.discogs.com/artists/2770"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Source",
+            "catno": "724389428766",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 22255,
+            "resource_url": "https://api.discogs.com/labels/22255"
+          }
+        ],
+        "genres": ["Electronic"],
+        "styles": ["Downtempo", "Ambient"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 23295905,
+      "instance_id": 1368281772,
+      "date_added": "2023-05-29T11:43:10-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 23295905,
+        "master_id": 4424,
+        "master_url": "https://api.discogs.com/masters/4424",
+        "resource_url": "https://api.discogs.com/releases/23295905",
+        "thumb": "https://i.discogs.com/FrYydSIyH7M0wT7wXX97Y5HcsZuULMSxX3n1u__LJFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk1/OTA1LTE2NjI3NDY1/NDQtNjg3My5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/1WT_gG9WNc5rNr8D6npADBS2ilRfAcDatLfzjYAtJeM/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk1/OTA1LTE2NjI3NDY1/NDQtNjg3My5qcGVn.jpeg",
+        "title": "Eye In The Sky",
+        "year": 2022,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "180g, Gatefold",
+            "descriptions": [
+              "12\"",
+              "45 RPM",
+              "Album",
+              "Numbered",
+              "Reissue",
+              "Remastered",
+              "Special Edition",
+              "Stereo"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Alan Parsons Project",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 66916,
+            "resource_url": "https://api.discogs.com/artists/66916"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Mobile Fidelity Sound Lab",
+            "catno": "MFSL 2-500",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 35095,
+            "resource_url": "https://api.discogs.com/labels/35095"
+          },
+          {
+            "name": "Arista",
+            "catno": "19439755561",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 362,
+            "resource_url": "https://api.discogs.com/labels/362"
+          },
+          {
+            "name": "Sony Music Commercial Music Group",
+            "catno": "19439755561",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 276086,
+            "resource_url": "https://api.discogs.com/labels/276086"
+          }
+        ],
+        "genres": ["Electronic", "Rock"],
+        "styles": ["Pop Rock", "Prog Rock"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 8377295,
+      "instance_id": 1407833328,
+      "date_added": "2023-07-17T04:05:10-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 8377295,
+        "master_id": 4338,
+        "master_url": "https://api.discogs.com/masters/4338",
+        "resource_url": "https://api.discogs.com/releases/8377295",
+        "thumb": "https://i.discogs.com/vqXtUjKO-_dDuNUsr45a93MyCfbB4-oBAPTfvyczSWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzcy/OTUtMTQ5MDIxMTEz/OC05NTg5LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/_tRrk2fTSz_S9JVoRCCXTQS3cZVe7Gq1qy2xots5fgQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzcy/OTUtMTQ5MDIxMTEz/OC05NTg5LmpwZWc.jpeg",
+        "title": "I Robot",
+        "year": 2016,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "180 Gram, Gatefold",
+            "descriptions": [
+              "12\"",
+              "45 RPM",
+              "Album",
+              "Limited Edition",
+              "Numbered",
+              "Reissue",
+              "Remastered",
+              "Special Edition",
+              "Stereo"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Alan Parsons Project",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 66916,
+            "resource_url": "https://api.discogs.com/artists/66916"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Mobile Fidelity Sound Lab",
+            "catno": "MFSL 2-455",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 35095,
+            "resource_url": "https://api.discogs.com/labels/35095"
+          },
+          {
+            "name": "Arista",
+            "catno": "88691944481",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 362,
+            "resource_url": "https://api.discogs.com/labels/362"
+          },
+          {
+            "name": "Sony Music Commercial Music Group",
+            "catno": "88691944481",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 276086,
+            "resource_url": "https://api.discogs.com/labels/276086"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Prog Rock"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 4333870,
+      "instance_id": 1012665692,
+      "date_added": "2022-04-25T01:29:38-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 4333870,
+        "master_id": 108477,
+        "master_url": "https://api.discogs.com/masters/108477",
+        "resource_url": "https://api.discogs.com/releases/4333870",
+        "thumb": "https://i.discogs.com/cTgAcip-tojJVVWNrvPGYMgfGXOJOYuLCcfl7allP7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzM4/NzAtMTYxNzI5MzM3/MC03MDg4LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/FQvQfaFuI0y6XMmqp9BgoPh2sOZlJOrOo1QIWWSltKU/rs:fit/g:sm/q:90/h:556/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzM4/NzAtMTYxNzI5MzM3/MC03MDg4LmpwZWc.jpeg",
+        "title": "The Best Of The Alan Parsons Project",
+        "year": 1983,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Compilation", "Remastered"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Alan Parsons Project",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 66916,
+            "resource_url": "https://api.discogs.com/artists/66916"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Arista",
+            "catno": "205 909",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 362,
+            "resource_url": "https://api.discogs.com/labels/362"
+          },
+          {
+            "name": "Arista",
+            "catno": "APP 1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 362,
+            "resource_url": "https://api.discogs.com/labels/362"
+          }
+        ],
+        "genres": ["Electronic", "Rock"],
+        "styles": ["Pop Rock", "Prog Rock", "Synth-pop", "Art Rock"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 9398524,
+      "instance_id": 1450963219,
+      "date_added": "2023-09-05T12:49:53-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 9398524,
+        "master_id": 92845,
+        "master_url": "https://api.discogs.com/masters/92845",
+        "resource_url": "https://api.discogs.com/releases/9398524",
+        "thumb": "https://i.discogs.com/weWHY_IEU-8NXPeIS94DxJ_PlF-_rr4dTGT0rM-FRf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg1/MjQtMTY3OTAwMDkz/Ny01MTE2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/HMgZWSpNmJ9BV90PobHUU4Cbm2xw4ZLHVMRpMT3SvcE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg1/MjQtMTY3OTAwMDkz/Ny01MTE2LmpwZWc.jpeg",
+        "title": "Bill Withers' Greatest Hits",
+        "year": 2016,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180 gram",
+            "descriptions": [
+              "LP",
+              "Compilation",
+              "Limited Edition",
+              "Numbered",
+              "Reissue",
+              "Remastered",
+              "Special Edition"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Bill Withers",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 59249,
+            "resource_url": "https://api.discogs.com/artists/59249"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Mobile Fidelity Sound Lab",
+            "catno": "MFSL 1-445",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 35095,
+            "resource_url": "https://api.discogs.com/labels/35095"
+          },
+          {
+            "name": "Columbia",
+            "catno": "88691973661",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+          },
+          {
+            "name": "Sony Music Commercial Music Group",
+            "catno": "88691973661",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 276086,
+            "resource_url": "https://api.discogs.com/labels/276086"
+          }
+        ],
+        "genres": ["Jazz", "Funk / Soul"],
+        "styles": ["Soul", "Jazz-Funk"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1630711,
+      "instance_id": 943327063,
+      "date_added": "2022-02-10T14:54:15-08:00",
+      "rating": 4,
+      "basic_information": {
+        "id": 1630711,
+        "master_id": 75442,
+        "master_url": "https://api.discogs.com/masters/75442",
+        "resource_url": "https://api.discogs.com/releases/1630711",
+        "thumb": "https://i.discogs.com/vJpVSlCy6l4hR3bbqKaBXaNKV6hXeW01oa9iil45dQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA3/MTEtMTYzMzY4MzA3/My00MDA2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/im-MHmQEJ1jenEwP5Xpxu80-53g_9u49QEyJad_Rrvg/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA3/MTEtMTYzMzY4MzA3/My00MDA2LmpwZWc.jpeg",
+        "title": "Storm Front",
+        "year": 1989,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Billy Joel",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 137418,
+            "resource_url": "https://api.discogs.com/artists/137418"
+          }
+        ],
+        "labels": [
+          {
+            "name": "CBS",
+            "catno": "465658 1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3072,
+            "resource_url": "https://api.discogs.com/labels/3072"
+          }
+        ],
+        "genres": ["Rock", "Pop"],
+        "styles": ["Pop Rock", "Ballad"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 720637,
+      "instance_id": 939037630,
+      "date_added": "2022-02-06T09:54:14-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 720637,
+        "master_id": 56978,
+        "master_url": "https://api.discogs.com/masters/56978",
+        "resource_url": "https://api.discogs.com/releases/720637",
+        "thumb": "https://i.discogs.com/TT_XHdbLFouL9zxcVgoy9YV0L26LVBvy1cTwJ_9J08Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDYz/Ny0xNDA3MzMxMzQz/LTUwODUuanBlZw.jpeg",
+        "cover_image": "https://i.discogs.com/NE7ZEjalEpo_PqsL7VPGrQWvgIBhaMm-IY91lUXqYOo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDYz/Ny0xNDA3MzMxMzQz/LTUwODUuanBlZw.jpeg",
+        "title": "Turnstiles",
+        "year": 1976,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Billy Joel",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 137418,
+            "resource_url": "https://api.discogs.com/artists/137418"
+          }
+        ],
+        "labels": [
+          {
+            "name": "CBS",
+            "catno": "CBS 81195",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3072,
+            "resource_url": "https://api.discogs.com/labels/3072"
+          },
+          {
+            "name": "CBS",
+            "catno": "S 81195",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3072,
+            "resource_url": "https://api.discogs.com/labels/3072"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Folk Rock", "Pop Rock"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 2076077,
+      "instance_id": 918447805,
+      "date_added": "2022-01-18T14:52:38-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2076077,
+        "master_id": 219900,
+        "master_url": "https://api.discogs.com/masters/219900",
+        "resource_url": "https://api.discogs.com/releases/2076077",
+        "thumb": "https://i.discogs.com/FwbRVjyPUDcdw_mKKMmKjmdQTxOnsOpTUv0Tpv2fgv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYw/NzctMTQ0NDQ4ODAz/Ni05ODgyLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/lc4qkP7C8zEyw_ypwbKbvYTvleHXHgUJ4SgTC8yuIiM/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYw/NzctMTQ0NDQ4ODAz/Ni05ODgyLmpwZWc.jpeg",
+        "title": "In Concert",
+        "year": 0,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Reissue"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Burt Bacharach",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 58359,
+            "resource_url": "https://api.discogs.com/artists/58359"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Music For Pleasure",
+            "catno": "MFP 50442",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 18512,
+            "resource_url": "https://api.discogs.com/labels/18512"
+          }
+        ],
+        "genres": ["Jazz"],
+        "styles": ["Easy Listening"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 27031743,
+      "instance_id": 1368272454,
+      "date_added": "2023-05-29T11:33:29-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 27031743,
+        "master_id": 556257,
+        "master_url": "https://api.discogs.com/masters/556257",
+        "resource_url": "https://api.discogs.com/releases/27031743",
+        "thumb": "https://i.discogs.com/bydDXOhXWZYpjSGh_m5BLS-PvBuph_VfpodbQGj2VKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDMx/NzQzLTE2ODM5Nzk2/MjEtMzE1My5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/syONV9CxtrfzlFd6MEJFeFCmxlMj5FySctLja642Rc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDMx/NzQzLTE2ODM5Nzk2/MjEtMzE1My5qcGVn.jpeg",
+        "title": "Random Access Memories (10th Anniversary Edition)",
+        "year": 2023,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "text": "180 gram",
+            "descriptions": ["LP", "Album", "Reissue", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Daft Punk",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 1289,
+            "resource_url": "https://api.discogs.com/artists/1289"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Columbia",
+            "catno": "19658773731",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+          },
+          {
+            "name": "Legacy",
+            "catno": "19658773731",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 15491,
+            "resource_url": "https://api.discogs.com/labels/15491"
+          },
+          {
+            "name": "Sony Music",
+            "catno": "19658773731",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25487,
+            "resource_url": "https://api.discogs.com/labels/25487"
+          }
+        ],
+        "genres": ["Electronic", "Funk / Soul", "Pop"],
+        "styles": ["Electro", "Disco", "Funk", "Synth-pop"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 3791080,
+      "instance_id": 1354606923,
+      "date_added": "2023-05-13T11:22:40-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3791080,
+        "master_id": 34081,
+        "master_url": "https://api.discogs.com/masters/34081",
+        "resource_url": "https://api.discogs.com/releases/3791080",
+        "thumb": "https://i.discogs.com/K46RGf5UZj0bvZvQJy8cxcoFevgUBgiVWMdg6aZ4ge8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEw/ODAtMTU5MDI1MjAz/Ny00MTY5LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/GBWK-sqq3NMehQuZ_nJbIxBDAxaDyvw7E46csBkzMD8/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEw/ODAtMTU5MDI1MjAz/Ny00MTY5LmpwZWc.jpeg",
+        "title": "Time Out",
+        "year": 2012,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "200gm, Gatefold",
+            "descriptions": [
+              "12\"",
+              "45 RPM",
+              "Album",
+              "Limited Edition",
+              "Reissue",
+              "Remastered",
+              "Stereo"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Dave Brubeck Quartet",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 251689,
+            "resource_url": "https://api.discogs.com/artists/251689"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Analogue Productions",
+            "catno": "APJ 8192-45",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 57179,
+            "resource_url": "https://api.discogs.com/labels/57179"
+          },
+          {
+            "name": "Columbia",
+            "catno": "CS 8192",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+          },
+          {
+            "name": "Columbia",
+            "catno": "88691966581",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+          }
+        ],
+        "genres": ["Jazz"],
+        "styles": ["Bop", "Hard Bop"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 11606339,
+      "instance_id": 918445540,
+      "date_added": "2022-01-18T14:49:42-08:00",
+      "rating": 4,
+      "basic_information": {
+        "id": 11606339,
+        "master_id": 22294,
+        "master_url": "https://api.discogs.com/masters/22294",
+        "resource_url": "https://api.discogs.com/releases/11606339",
+        "thumb": "https://i.discogs.com/5ylU3HPgRTXgktqapiNDzF6ns0JW_rl3QRbiIdFz2Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/MzM5LTE1MjA5Njg1/NDYtNDk1NS5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/jGhZ2ge8wuGK0nTQU0kRXk216-tICLLcfgek9d6nlos/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/MzM5LTE1MjA5Njg1/NDYtNDk1NS5qcGVn.jpeg",
+        "title": "\"Heroes\"",
+        "year": 2018,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180g",
+            "descriptions": ["LP", "Album", "Reissue", "Remastered", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "David Bowie",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 10263,
+            "resource_url": "https://api.discogs.com/artists/10263"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Parlophone",
+            "catno": "0190295842840",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "DB 77822",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Art Rock", "Experimental", "Alternative Rock"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 26734640,
+      "instance_id": 1368306264,
+      "date_added": "2023-05-29T12:08:47-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 26734640,
+        "master_id": 2162,
+        "master_url": "https://api.discogs.com/masters/2162",
+        "resource_url": "https://api.discogs.com/releases/26734640",
+        "thumb": "https://i.discogs.com/WEw7JuCDeDIpM6vrAxNFHX6n5N0rXXFmgjSCeps9ycQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzM0/NjQwLTE2ODIxODY1/OTAtODg4MS5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/chIvbJCbnMQ3_DMhxrNXJcp3ByYGN3MAtLzjmRK5Wvc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzM0/NjQwLTE2ODIxODY1/OTAtODg4MS5qcGVn.jpeg",
+        "title": "Aladdin Sane",
+        "year": 2023,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "50th Anniversary, Half Speed Master",
+            "descriptions": ["LP", "Album", "Reissue"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "David Bowie",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 10263,
+            "resource_url": "https://api.discogs.com/artists/10263"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Parlophone",
+            "catno": "DBAS 50",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "5054197183140",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Glam"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 8162088,
+      "instance_id": 887124946,
+      "date_added": "2021-12-20T14:20:31-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 8162088,
+        "master_id": 1718,
+        "master_url": "https://api.discogs.com/masters/1718",
+        "resource_url": "https://api.discogs.com/releases/8162088",
+        "thumb": "https://i.discogs.com/5E3Kw3H8cLvgIZtx_6T-Cey5PPxdvjyt3yiSEDBI3EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjIw/ODgtMTQ3MDc3NDI1/NS0yOTQ0LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/IZRdkq5nssuixWy1OaXshzUlLIYf-pWoep_zfBNxaaw/rs:fit/g:sm/q:90/h:602/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjIw/ODgtMTQ3MDc3NDI1/NS0yOTQ0LmpwZWc.jpeg",
+        "title": "Hunky Dory",
+        "year": 2016,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180 Gram",
+            "descriptions": ["LP", "Album", "Reissue", "Remastered", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "David Bowie",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 10263,
+            "resource_url": "https://api.discogs.com/artists/10263"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Parlophone",
+            "catno": "0825646289448",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "DB69733",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "DB 69733",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "DBXL1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Glam", "Pop Rock"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 9830055,
+      "instance_id": 918444658,
+      "date_added": "2022-01-18T14:48:35-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 9830055,
+        "master_id": 530238,
+        "master_url": "https://api.discogs.com/masters/530238",
+        "resource_url": "https://api.discogs.com/releases/9830055",
+        "thumb": "https://i.discogs.com/1nQjkz0MmdMyuGj23oWxJ4h18F0iOBtW_98l4pVEDPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzAw/NTUtMTU0ODEwMDQ1/NS0zODYxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/hrFdPlH9jxtUxGPtP4M1FTGKcp6-fmbX0s_AjVYBKzo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzAw/NTUtMTU0ODEwMDQ1/NS0zODYxLmpwZWc.jpeg",
+        "title": "The Next Day",
+        "year": 2013,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "180g, Optimal Pressing",
+            "descriptions": ["LP", "Album"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "David Bowie",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 10263,
+            "resource_url": "https://api.discogs.com/artists/10263"
+          }
+        ],
+        "labels": [
+          {
+            "name": "ISO Records",
+            "catno": "88765 46186 1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 55782,
+            "resource_url": "https://api.discogs.com/labels/55782"
+          },
+          {
+            "name": "Columbia",
+            "catno": "88765 46186 1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+          }
+        ],
+        "genres": ["Rock", "Pop"],
+        "styles": ["Art Rock"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 16170061,
+      "instance_id": 918447352,
+      "date_added": "2022-01-18T14:52:04-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 16170061,
+        "master_id": 1561,
+        "master_url": "https://api.discogs.com/masters/1561",
+        "resource_url": "https://api.discogs.com/releases/16170061",
+        "thumb": "https://i.discogs.com/q_kJqdb0X-vDldhi__hb9_W1amSQL2LbBrHjkNeJL6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcw/MDYxLTE2MDQ2OTgz/ODYtMTEzNS5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/iJJ5xKY9wCCDKxiE0gRCcDrovGZC8QoLnHX6mK-CUlU/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcw/MDYxLTE2MDQ2OTgz/ODYtMTEzNS5qcGVn.jpeg",
+        "title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+        "year": 2020,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180g",
+            "descriptions": ["LP", "Album", "Reissue", "Remastered", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "David Bowie",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 10263,
+            "resource_url": "https://api.discogs.com/artists/10263"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Parlophone",
+            "catno": "DB69734",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "0825646287376",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "DB 69734",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          },
+          {
+            "name": "Parlophone",
+            "catno": "DBXL1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Glam", "Art Rock"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 22996628,
+      "instance_id": 1012669487,
+      "date_added": "2022-04-25T01:38:24-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 22996628,
+        "master_id": 23798,
+        "master_url": "https://api.discogs.com/masters/23798",
+        "resource_url": "https://api.discogs.com/releases/22996628",
+        "thumb": "https://i.discogs.com/fq2HDlspTdBxDP2U7wyj6SezCwGr3WO0_R0qpEqUM7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk2/NjI4LTE2NTA4MTY2/MTMtMjA0OC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/dIQ48DE_OKFZ6J4m2O3zfqKRXSwbcQ_MB3aQ_ld3tuQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk2/NjI4LTE2NTA4MTY2/MTMtMjA0OC5qcGVn.jpeg",
+        "title": "Love Over Gold",
+        "year": 2022,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Record Store Day",
+              "Limited Edition",
+              "Reissue",
+              "Remastered",
+              "Stereo"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Dire Straits",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 103687,
+            "resource_url": "https://api.discogs.com/artists/103687"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Vertigo",
+            "catno": "4522574",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2266,
+            "resource_url": "https://api.discogs.com/labels/2266"
+          },
+          {
+            "name": "Mercury",
+            "catno": "4522574",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 39357,
+            "resource_url": "https://api.discogs.com/labels/39357"
+          },
+          {
+            "name": "UMC",
+            "catno": "4522574",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 176614,
+            "resource_url": "https://api.discogs.com/labels/176614"
+          }
+        ],
+        "genres": ["Rock", "Pop"],
+        "styles": []
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Mint (M)"
+        },
+        {
+          "field_id": 2,
+          "value": "Mint (M)"
+        }
+      ]
+    },
+    {
+      "id": 382415,
+      "instance_id": 1269005296,
+      "date_added": "2023-02-15T00:48:00-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 382415,
+        "master_id": 23815,
+        "master_url": "https://api.discogs.com/masters/23815",
+        "resource_url": "https://api.discogs.com/releases/382415",
+        "thumb": "https://i.discogs.com/9aGbPCzVoFNbkMrO-WbnErv_0ruknApWiyPNbzp-P2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjQx/NS0xMTcxMTM4MzEx/LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/jXw4bIzZhYPtG9XLegleRSz4FZ6N7n2topLLt4TZhAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjQx/NS0xMTcxMTM4MzEx/LmpwZWc.jpeg",
+        "title": "Making Movies",
+        "year": 1980,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Dire Straits",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 103687,
+            "resource_url": "https://api.discogs.com/artists/103687"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Vertigo",
+            "catno": "6359 034",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2266,
+            "resource_url": "https://api.discogs.com/labels/2266"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Blues Rock"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 18955195,
+      "instance_id": 883206601,
+      "date_added": "2021-12-16T01:59:15-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 18955195,
+        "master_id": 0,
+        "master_url": null,
+        "resource_url": "https://api.discogs.com/releases/18955195",
+        "thumb": "https://i.discogs.com/TTwYIXA4KLTlvfszjrnkcmeaMjJjigOwRaUUtxLW_vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTU1/MTk1LTE2MjI0NDc4/OTktNzU2Ni5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/LXpCqgSfGBh-8Rg3EH_7hugft2CC1kCKCTs7yyrHk7I/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTU1/MTk1LTE2MjI0NDc4/OTktNzU2Ni5qcGVn.jpeg",
+        "title": "Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)",
+        "year": 2021,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "6",
+            "text": "140g, White",
+            "descriptions": ["LP", "Compilation"]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "descriptions": ["Limited Edition"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Fawlty Towers",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 506139,
+            "resource_url": "https://api.discogs.com/artists/506139"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Demon Records",
+            "catno": "DEMRECBOX54",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 8522,
+            "resource_url": "https://api.discogs.com/labels/8522"
+          },
+          {
+            "name": "BBC",
+            "catno": "DEMRECBOX54",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 101418,
+            "resource_url": "https://api.discogs.com/labels/101418"
+          },
+          {
+            "name": "BBC Records",
+            "catno": "DEMRECBOX54",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3380,
+            "resource_url": "https://api.discogs.com/labels/3380"
+          }
+        ],
+        "genres": ["Non-Music", "Stage & Screen"],
+        "styles": ["Comedy", "Radioplay", "Soundtrack"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 25696627,
+      "instance_id": 1407833445,
+      "date_added": "2023-07-17T04:05:25-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 25696627,
+        "master_id": 54294,
+        "master_url": "https://api.discogs.com/masters/54294",
+        "resource_url": "https://api.discogs.com/releases/25696627",
+        "thumb": "https://i.discogs.com/J8EvY2szATo1l5RNGG4f46PO0j-8HdJfzNlt4RhHtXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk2/NjI3LTE2NzMxMjEx/ODMtMTE3OC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/A3YBEn7i0O50W41a0kbssTGlw1Eb4pTwrKbU5UWStSc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk2/NjI3LTE2NzMxMjEx/ODMtMTE3OC5qcGVn.jpeg",
+        "title": "City To City",
+        "year": 2023,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Orange",
+            "descriptions": ["LP"]
+          },
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Orange",
+            "descriptions": ["LP", "Single Sided", "Etched"]
+          },
+          {
+            "name": "All Media",
+            "qty": "1",
+            "descriptions": [
+              "Album",
+              "Limited Edition",
+              "Reissue",
+              "Remastered",
+              "Stereo"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Gerry Rafferty",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 253945,
+            "resource_url": "https://api.discogs.com/artists/253945"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Parlophone",
+            "catno": "0190296282126",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Pop Rock"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 28214599,
+      "instance_id": 1454536468,
+      "date_added": "2023-09-10T05:03:32-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 28214599,
+        "master_id": 82879,
+        "master_url": "https://api.discogs.com/masters/82879",
+        "resource_url": "https://api.discogs.com/releases/28214599",
+        "thumb": "https://i.discogs.com/yjFpPOA--hgaoKnZYfC0zn3vlcLml4m5aUPmdgMPNLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE0/NTk5LTE2OTQyNzI3/MjctMjAyOC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/622uZawJ3lBK9YGBX_wBKyTNJLOg4Hh0H5yQZg7UVMk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE0/NTk5LTE2OTQyNzI3/MjctMjAyOC5qcGVn.jpeg",
+        "title": "Night Owl",
+        "year": 2023,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album", "Reissue", "Remastered", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Gerry Rafferty",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 253945,
+            "resource_url": "https://api.discogs.com/artists/253945"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Parlophone",
+            "catno": "0190296375675",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2294,
+            "resource_url": "https://api.discogs.com/labels/2294"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Pop Rock", "Soft Rock"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2411672,
+      "instance_id": 926981299,
+      "date_added": "2022-01-26T10:28:21-08:00",
+      "rating": 5,
+      "basic_information": {
+        "id": 2411672,
+        "master_id": 305506,
+        "master_url": "https://api.discogs.com/masters/305506",
+        "resource_url": "https://api.discogs.com/releases/2411672",
+        "thumb": "https://i.discogs.com/nUH9jITxQMKObk3FmkqhCMXMq3XjWDNWZ_eOVodR1Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE2/NzItMTM5NDYyMjc2/NS05MDE1LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/4Xv8pzTWjQP_g6KrDX_MIDWKEMpkzC6zlvw33DaUyws/rs:fit/g:sm/q:90/h:457/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE2/NzItMTM5NDYyMjc2/NS05MDE1LmpwZWc.jpeg",
+        "title": "The Very Best Of",
+        "year": 1991,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Compilation"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Herb Alpert",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 35022,
+            "resource_url": "https://api.discogs.com/artists/35022"
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "397 165-1",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "genres": ["Electronic", "Jazz", "Funk / Soul"],
+        "styles": ["Latin Jazz", "Easy Listening", "Jazzdance", "Disco"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 7597701,
+      "instance_id": 883651003,
+      "date_added": "2021-12-16T13:29:39-08:00",
+      "rating": 4,
+      "basic_information": {
+        "id": 7597701,
+        "master_id": 43980,
+        "master_url": "https://api.discogs.com/masters/43980",
+        "resource_url": "https://api.discogs.com/releases/7597701",
+        "thumb": "https://i.discogs.com/TTVg7BNfW_ViSfNNbZYson9NAwtjkB6W30z5i5Ca-M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTc3/MDEtMTQ1NTM5MDc0/MS01NjQxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/SwKptgFi2cJ0_c7vLZHSqmUKyA7Fti-mqtGi5z2bHFY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTc3/MDEtMTQ1NTM5MDc0/MS01NjQxLmpwZWc.jpeg",
+        "title": "Oxygene",
+        "year": 2015,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180 Gram",
+            "descriptions": ["LP", "Album", "Reissue", "Remastered"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Jean-Michel Jarre",
+            "anv": "Jean Michel Jarre",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 209415,
+            "resource_url": "https://api.discogs.com/artists/209415"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Les Disques Motors",
+            "catno": "88843024681",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 4189,
+            "resource_url": "https://api.discogs.com/labels/4189"
+          },
+          {
+            "name": "Sony Music",
+            "catno": "88843024681",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25487,
+            "resource_url": "https://api.discogs.com/labels/25487"
+          },
+          {
+            "name": "BMG",
+            "catno": "88843024681",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1003,
+            "resource_url": "https://api.discogs.com/labels/1003"
+          }
+        ],
+        "genres": ["Electronic"],
+        "styles": ["Synth-pop", "Ambient"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1898098,
+      "instance_id": 994393262,
+      "date_added": "2022-04-05T10:25:17-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1898098,
+        "master_id": 187151,
+        "master_url": "https://api.discogs.com/masters/187151",
+        "resource_url": "https://api.discogs.com/releases/1898098",
+        "thumb": "https://i.discogs.com/5gtKTxZEQVT3LVZV5C9SeYrARm9mFQSHz8vuiQOEiQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgw/OTgtMTI5NTYxNTkz/OC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/Hr2tXIVO6HZvO0AKkV56lQNsxRNUFf62SvQGZmy2P60/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgw/OTgtMTI5NTYxNTkz/OC5qcGVn.jpeg",
+        "title": "Theme From The Persuaders!",
+        "year": 1972,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Compilation", "Stereo", "Mono"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "John Barry",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 19502,
+            "resource_url": "https://api.discogs.com/artists/19502"
+          }
+        ],
+        "labels": [
+          {
+            "name": "CBS",
+            "catno": "64816",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3072,
+            "resource_url": "https://api.discogs.com/labels/3072"
+          },
+          {
+            "name": "CBS",
+            "catno": "S 64816",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3072,
+            "resource_url": "https://api.discogs.com/labels/3072"
+          }
+        ],
+        "genres": ["Jazz", "Stage & Screen"],
+        "styles": ["Theme"]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 4269464,
+      "instance_id": 918449197,
+      "date_added": "2022-01-18T14:54:43-08:00",
+      "rating": 4,
+      "basic_information": {
+        "id": 4269464,
+        "master_id": 19731,
+        "master_url": "https://api.discogs.com/masters/19731",
+        "resource_url": "https://api.discogs.com/releases/4269464",
+        "thumb": "https://i.discogs.com/UkMKnm_roUfQPBO7XzhTxTph5cfsCPShARgFQvjmZYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjk0/NjQtMTQ0ODE5NTUx/OC0yMjgxLmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/1uk04F2hl8G7cSk47dzWRVfoP1z-QYZWzffPeVYtQWI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjk0/NjQtMTQ0ODE5NTUx/OC0yMjgxLmpwZWc.jpeg",
+        "title": "The Friends Of Mr. Cairo",
+        "year": 1981,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Jon & Vangelis",
+            "anv": "Jon And Vangelis",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 95452,
+            "resource_url": "https://api.discogs.com/artists/95452"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Polydor",
+            "catno": "POLD 5053",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1610,
+            "resource_url": "https://api.discogs.com/labels/1610"
+          }
+        ],
+        "genres": ["Electronic"],
+        "styles": ["Downtempo", "Synth-pop", "Ambient"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 15646371,
+      "instance_id": 1235636281,
+      "date_added": "2023-01-14T02:39:58-08:00",
+      "rating": 4,
+      "basic_information": {
+        "id": 15646371,
+        "master_id": 44278,
+        "master_url": "https://api.discogs.com/masters/44278",
+        "resource_url": "https://api.discogs.com/releases/15646371",
+        "thumb": "https://i.discogs.com/dbyUEBfe6F4hhabY-VwyuUdXyCtEMBFWVHmfuhK_bJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ2/MzcxLTE2MTg5MTUz/NzYtODIyNS5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/WcydRXwZPOlvEtS0P5OvIYXXcbl7tR2cGwGqPYG5p6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ2/MzcxLTE2MTg5MTUz/NzYtODIyNS5qcGVn.jpeg",
+        "title": "Transformer",
+        "year": 2020,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180g",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered",
+              "Repress",
+              "Stereo"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Lou Reed",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 11879,
+            "resource_url": "https://api.discogs.com/artists/11879"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Speakers Corner Records",
+            "catno": "LSP-4807",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 75430,
+            "resource_url": "https://api.discogs.com/labels/75430"
+          },
+          {
+            "name": "RCA Victor",
+            "catno": "LSP-4807",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 11358,
+            "resource_url": "https://api.discogs.com/labels/11358"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Classic Rock", "Glam"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 8620588,
+      "instance_id": 887140600,
+      "date_added": "2021-12-20T14:41:28-08:00",
+      "rating": 4,
+      "basic_information": {
+        "id": 8620588,
+        "master_id": 16013,
+        "master_url": "https://api.discogs.com/masters/16013",
+        "resource_url": "https://api.discogs.com/releases/8620588",
+        "thumb": "https://i.discogs.com/guwIPbq8OnnnOwru0Rd1OgM-CrQQB0FC5i9TuG8CaIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjA1/ODgtMTQ2NTMwNDMw/Mi03Nzc3LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/aCzhNsrcvTlYMbBMTy2V2HhD-D1xkQJOH2lpO4BOfy0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjA1/ODgtMTQ2NTMwNDMw/Mi03Nzc3LmpwZWc.jpeg",
+        "title": "Crises",
+        "year": 1983,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Mike Oldfield",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 18666,
+            "resource_url": "https://api.discogs.com/artists/18666"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Virgin",
+            "catno": "V2262",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 750,
+            "resource_url": "https://api.discogs.com/labels/750"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": ["Pop Rock", "Prog Rock"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 8507947,
+      "instance_id": 1368283974,
+      "date_added": "2023-05-29T11:45:29-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 8507947,
+        "master_id": 39316,
+        "master_url": "https://api.discogs.com/masters/39316",
+        "resource_url": "https://api.discogs.com/releases/8507947",
+        "thumb": "https://i.discogs.com/BDtgOA8s1-3jtw6mNFgxIyZYxd4mv-X5UmFQW3z71NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDc5/NDctMTUyMDUwNzcy/OS05ODk2LmpwZWc.jpeg",
+        "cover_image": "https://i.discogs.com/pVkAQ_rv7H3bn5x_FobYS-F3JgmiaxlsUpHK3Vkl9ww/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDc5/NDctMTUyMDUwNzcy/OS05ODk2LmpwZWc.jpeg",
+        "title": "Ghost In The Machine",
+        "year": 2016,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Half Speed Mastered",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Limited Edition",
+              "Reissue",
+              "Remastered"
+            ]
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Police",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7987,
+            "resource_url": "https://api.discogs.com/artists/7987"
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "ARHSLP005",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "genres": ["Rock", "Pop"],
+        "styles": ["Alternative Rock", "New Wave", "Pop Rock"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2884821,
+      "instance_id": 1330638548,
+      "date_added": "2023-04-19T06:05:16-07:00",
+      "rating": 5,
+      "basic_information": {
+        "id": 2884821,
+        "master_id": 16921,
+        "master_url": "https://api.discogs.com/masters/16921",
+        "resource_url": "https://api.discogs.com/releases/2884821",
+        "thumb": "https://i.discogs.com/W2zDrqkiFe1L8ENwoCb_K9cgVIgc0C3DRypzJuzs7XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTMwNTYzMzk1/Ni5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/KdFaSJ_ht7BtPT6nvD3kvXMZcZd2ywumDRMQFC9f1Q0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/MjEtMTMwNTYzMzk1/Ni5qcGVn.jpeg",
+        "title": "Aja",
+        "year": 2008,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold, 180g",
+            "descriptions": ["LP", "Album", "Reissue", "Remastered"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Steely Dan",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 160906,
+            "resource_url": "https://api.discogs.com/artists/160906"
+          }
+        ],
+        "labels": [
+          {
+            "name": "ABC Records",
+            "catno": "0076732168813",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 12220,
+            "resource_url": "https://api.discogs.com/labels/12220"
+          }
+        ],
+        "genres": ["Jazz", "Rock", "Pop"],
+        "styles": ["Pop Rock", "Fusion"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 16132613,
+      "instance_id": 918448129,
+      "date_added": "2022-01-18T14:53:07-08:00",
+      "rating": 5,
+      "basic_information": {
+        "id": 16132613,
+        "master_id": 30712,
+        "master_url": "https://api.discogs.com/masters/30712",
+        "resource_url": "https://api.discogs.com/releases/16132613",
+        "thumb": "https://i.discogs.com/upo5SgA-zLgQ9OvArP9uhAWm-CUdSWiDNNAiqXBfprQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMy/NjEzLTE2MDk0NTI5/NTUtNjI2Ny5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/jvMq9h-Bkxcuooij3BE81cH1AWD80WNT1rwYfds7eEE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMy/NjEzLTE2MDk0NTI5/NTUtNjI2Ny5qcGVn.jpeg",
+        "title": "Toto IV",
+        "year": 2020,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album", "Reissue", "Remastered", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Toto",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 68693,
+            "resource_url": "https://api.discogs.com/artists/68693"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Columbia",
+            "catno": "19075801121",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1866,
+            "resource_url": "https://api.discogs.com/labels/1866"
+          }
+        ],
+        "genres": ["Rock"],
+        "styles": []
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    },
+    {
+      "id": 16039006,
+      "instance_id": 1252888651,
+      "date_added": "2023-01-30T07:18:11-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 16039006,
+        "master_id": 4983,
+        "master_url": "https://api.discogs.com/masters/4983",
+        "resource_url": "https://api.discogs.com/releases/16039006",
+        "thumb": "https://i.discogs.com/w1unkCtGdRRLDDUK26RXhV4uoldhklryHJ9PqVB4kBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM5/MDA2LTE2MDM5ODY1/NzctMjk5MC5wbmc.jpeg",
+        "cover_image": "https://i.discogs.com/zBOFs4mf0i2biAMyJKAk4amTMtUnXr5utNjwlt00yNw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM5/MDA2LTE2MDM5ODY1/NzctMjk5MC5wbmc.jpeg",
+        "title": "Vienna [Deluxe Edition]",
+        "year": 2020,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Album", "Reissue"]
+          },
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": ["LP", "Compilation"]
+          },
+          {
+            "name": "All Media",
+            "qty": "1",
+            "text": "40th Anniversary Edition, 180g",
+            "descriptions": ["Deluxe Edition"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Ultravox",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 70735,
+            "resource_url": "https://api.discogs.com/artists/70735"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Chrysalis Catalogue",
+            "catno": "CHRH 1296",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1909424,
+            "resource_url": "https://api.discogs.com/labels/1909424"
+          }
+        ],
+        "genres": ["Electronic", "Rock", "Pop"],
+        "styles": ["New Wave", "Synth-pop"]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 24289043,
+      "instance_id": 1183978948,
+      "date_added": "2022-11-17T12:50:23-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 24289043,
+        "master_id": 2785790,
+        "master_url": "https://api.discogs.com/masters/2785790",
+        "resource_url": "https://api.discogs.com/releases/24289043",
+        "thumb": "https://i.discogs.com/WQ9qYNlmK7zqgYJhREibggTVEuxt3ArJ6JXt_fX8l_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg5/MDQzLTE2NjI2NTg0/NTgtMzMzMC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/Tkml2Ks48h0tfcFsywG4wzxQXbPUjmbzpjhKlfPHpPM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg5/MDQzLTE2NjI2NTg0/NTgtMzMzMC5qcGVn.jpeg",
+        "title": "Now Yearbook '79",
+        "year": 2022,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "text": "Orange",
+            "descriptions": ["LP", "Compilation", "Limited Edition", "Stereo"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "labels": [
+          {
+            "name": "Sony Music",
+            "catno": "LPYBNOW79",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25487,
+            "resource_url": "https://api.discogs.com/labels/25487"
+          },
+          {
+            "name": "EMI",
+            "catno": "LPYBNOW79",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 26126,
+            "resource_url": "https://api.discogs.com/labels/26126"
+          },
+          {
+            "name": "Sony Music",
+            "catno": "0196587150419",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25487,
+            "resource_url": "https://api.discogs.com/labels/25487"
+          },
+          {
+            "name": "EMI",
+            "catno": "0196587150419",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 26126,
+            "resource_url": "https://api.discogs.com/labels/26126"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Rock",
+          "Reggae",
+          "Funk / Soul",
+          "Pop",
+          "Folk, World, & Country",
+          "Stage & Screen"
+        ],
+        "styles": [
+          "Vocal",
+          "Synth-pop",
+          "Soundtrack",
+          "Soul",
+          "Reggae-Pop",
+          "Power Pop",
+          "Pop Rock",
+          "Pop Punk",
+          "New Wave",
+          "Arena Rock",
+          "Ballad"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 20796232,
+      "instance_id": 883206001,
+      "date_added": "2021-12-16T01:57:48-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 20796232,
+        "master_id": 2360005,
+        "master_url": "https://api.discogs.com/masters/2360005",
+        "resource_url": "https://api.discogs.com/releases/20796232",
+        "thumb": "https://i.discogs.com/FUQuMUWCHFSruQ02i-qZPPUboANN2YSw7fqiYSCH1BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/MjMyLTE2MzgwMzIz/MDAtMjU4MC5qcGVn.jpeg",
+        "cover_image": "https://i.discogs.com/qRV6yfOGxk-ZAtphLMj9n_XT9Ge2wiSB7p1w9Dwn9Z4/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/MjMyLTE2MzgwMzIz/MDAtMjU4MC5qcGVn.jpeg",
+        "title": "Now Yearbook '84",
+        "year": 2021,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "text": "Blue",
+            "descriptions": ["LP", "Compilation", "Limited Edition"]
+          }
+        ],
+        "artists": [
+          {
+            "name": "Various",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 194,
+            "resource_url": ""
+          }
+        ],
+        "labels": [
+          {
+            "name": "Sony Music",
+            "catno": "LPYBNOW84",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25487,
+            "resource_url": "https://api.discogs.com/labels/25487"
+          },
+          {
+            "name": "EMI",
+            "catno": "LPYBNOW84",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 26126,
+            "resource_url": "https://api.discogs.com/labels/26126"
+          },
+          {
+            "name": "Sony Music",
+            "catno": "0194398890715",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25487,
+            "resource_url": "https://api.discogs.com/labels/25487"
+          },
+          {
+            "name": "EMI",
+            "catno": "0194398890715",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 26126,
+            "resource_url": "https://api.discogs.com/labels/26126"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Rock",
+          "Reggae",
+          "Funk / Soul",
+          "Pop",
+          "Folk, World, & Country",
+          "Stage & Screen"
+        ],
+        "styles": [
+          "Vocal",
+          "Synth-pop",
+          "Soundtrack",
+          "Soul",
+          "Soft Rock",
+          "Reggae-Pop",
+          "Power Pop",
+          "Pop Rock",
+          "New Wave",
+          "Arena Rock",
+          "Ballad",
+          "Classic Rock",
+          "Country"
+        ]
+      },
+      "folder_id": 1,
+      "notes": [
+        {
+          "field_id": 1,
+          "value": "Near Mint (NM or M-)"
+        },
+        {
+          "field_id": 2,
+          "value": "Near Mint (NM or M-)"
+        }
+      ]
+    }
+  ]
+}
