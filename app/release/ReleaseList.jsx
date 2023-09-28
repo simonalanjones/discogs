@@ -3,12 +3,12 @@ import fsPromises from "fs/promises";
 import path from "path";
 import Image from "next/image";
 
-export async function getStaticProps() {
-  const releases = await getReleases();
-  return {
-    props: { releases },
-  };
-}
+// export async function getStaticProps() {
+//   const releases = await getReleases();
+//   return {
+//     props: { releases },
+//   };
+// }
 
 async function getReleases() {
   const filePath = path.join(process.cwd(), "_data/discogs.json");
