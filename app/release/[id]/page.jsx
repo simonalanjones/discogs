@@ -78,6 +78,7 @@ export default async function Release({ params }) {
         </div>
         <div class=" gap-12">
           <Image
+            rel="preload"
             className="mb-4"
             priority
             src={release.images[0].uri}
